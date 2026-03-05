@@ -10,10 +10,6 @@
 <img src="https://komarev.com/ghpvc/?username=krjayanth3&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krjayanth3&theme=tokyonight"/>
-</p>
-
 ---
 
 # 🚀 About Me
@@ -92,33 +88,11 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krjayanth3&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krjayanth3&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=krjayanth3&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krjayanth3&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
