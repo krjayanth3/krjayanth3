@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jayanth K R</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Backend+Developer;AI%2FML+Enthusiast;Data+Engineer;Microservices+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;DevOps;Python+Full+Stack+Developer;Backend+Developer;AI%2FML+Enthusiast;Data+Engineer;Microservices+Developer"/>
 </p>
 
-<h3 align="center">Computer Science Engineer | Python Full Stack Developer | Backend & Microservices | AI/ML & Data Engineering</h3>
+<h3 align="center">Computer Science Engineer | DevOps | Python Full Stack Developer | Backend & Microservices | AI/ML & Data Engineering</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krjayanth3&label=Profile%20views&color=0e75b6&style=flat"/>
